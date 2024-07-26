@@ -20,12 +20,12 @@ This Python script is a simple keylogger that captures keystrokes and logs them 
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/jagadeep05/keylogger.py
+    git clone https://github.com/jagadeep05/keyLogger.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd keylogger
+    cd keyLogger
     ```
 
 3. Install the required library using pip:
@@ -44,9 +44,8 @@ This Python script is a simple keylogger that captures keystrokes and logs them 
 
 3. Press `Ctrl + P` to stop the script.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Disclaimer
 
